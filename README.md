@@ -36,13 +36,4 @@ A) RUN TRAINING
 B) RUN OPERATION
      0) Install an interpreter environment that includes packages in interpreter_packages.txt
      1) Run Operation.py in file 'Operation&Plot', to start operation phase. The file 'Actor_ddpg.zip' includes actor weights file and should be uploaded to run operation.
-     2) Save data automatically
-
-
----------------------------------------------------------------------------
-
-===========================================================================
-
- 
-
-         
+     2) Save data automatically      
